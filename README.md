@@ -20,7 +20,19 @@
 
 <br/>
 
-🔴 **Live Demo** → [https://script.google.com/macros/s/AKfycbx8kE4xGE5e4aQ5hQHYjPbmOppAizPdLJ3lPpwkcuE7boa_-S4EdPXMKTZ7zWsDB94u/exec]
+---
+
+<div align="center">
+
+### 🔴 [→ Open Live Dashboard ←](https://script.google.com/macros/s/AKfycbx8kE4xGE5e4aQ5hQHYjPbmOppAizPdLJ3lPpwkcuE7boa_-S4EdPXMKTZ7zWsDB94u/exec)
+
+**Click to explore 50,000 gig workers — live, filtered, interactive.**
+
+💡 *If you see a Google Drive error, open in an incognito / private window — it will load correctly.*
+
+</div>
+
+---
 
 <br/>
 
