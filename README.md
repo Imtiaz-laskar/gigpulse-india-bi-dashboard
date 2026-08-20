@@ -20,7 +20,7 @@
 
 <br/>
 
-🔴 **Live Demo** → [gigpulse-india.live](https://script.google.com/macros/s/AKfycbx8kE4xGE5e4aQ5hQHYjPbmOppAizPdLJ3lPpwkcuE7boa_-S4EdPXMKTZ7zWsDB94u/exec)
+🔴 **Live Demo** → [https://script.google.com/macros/s/AKfycbx8kE4xGE5e4aQ5hQHYjPbmOppAizPdLJ3lPpwkcuE7boa_-S4EdPXMKTZ7zWsDB94u/exec]
 
 <br/>
 
